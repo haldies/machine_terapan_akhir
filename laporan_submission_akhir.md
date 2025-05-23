@@ -42,7 +42,7 @@ Untuk membangun sistem rekomendasi buku yang akurat dan relevan, kami mengadopsi
           * Membutuhkan deskripsi item yang kaya dan terstruktur.
           * Masalah *cold start* pada item baru (jika item baru belum memiliki deskripsi konten yang memadai).
 
-2.  **Collaborative Filtering (Penyaringan Kolaboratif)**:
+2.  **Hybrid Collaborative Filtering dan Content-based**:
 
       * **Deskripsi**: Pendekatan ini merekomendasikan item kepada pengguna berdasarkan preferensi atau perilaku pengguna lain yang serupa, atau berdasarkan kesamaan antar item yang dinilai oleh banyak pengguna. Ada dua sub-pendekatan utama:
           * **User-Based Collaborative Filtering**: Mencari pengguna dengan selera serupa dan merekomendasikan item yang disukai oleh "tetangga" pengguna tersebut.
