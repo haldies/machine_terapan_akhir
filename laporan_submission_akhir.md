@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Sistem Rekomendasi Buku
+# Laporan Proyek Machine Learning - Haldies Gerhardien Pasya
 
 ## Project Overview (Ulasan Proyek)
 
@@ -354,13 +354,23 @@ Sistem rekomendasi yang dikembangkan dapat mengurangi beban pencarian manual bag
 
 ## **Daftar Pustaka**
 [1] H. Ardiansyah and M. A. Bianto, “Implementation of License Plate,” JUST IT: Jurnal Sistem Informasi, Teknologi Informasi dan Komputer, vol. 15, no. 2, pp. 325–331, Jan. 2025.
+
 [2] Anon., “A Comparative Study on Online Book Recommendation System,” in Proc. Annu. Symp. Sci. Inf. Comput. (ASSIC), 2024, pp. XX–YY. (Note: Specific page numbers not available in snippets, placeholder used).
+
 [3] Radya Digital, “Sistem Rekomendasi: Tingkatkan pengalaman pengguna dengan saran yang relevan dan dipersonalisasi,” 2024. Accessed: Jun. 14, 2024. [Online]. Available: https://radyadigital.com/id/blog/sistem-rekomendasi-tingkatkan-pengalaman-pengguna-dengan-saran-yang-relevan-dan-dipersonalisasi.
+
 [4] BISA AI, “Sistem Rekomendasi Buku,” 2024. Accessed: Jun. 14, 2024. [Online]. Available: https://bisa.ai/portofolio/detail/MzM4OQ.
+
 [5] Anon., “Sistem Rekomendasi Buku Berbasis Content Based Filtering Menggunakan Algoritma TF-IDF dan Cosine Similarity,” E-Jurnal SINUS, vol. 3, no. 28, pp. XX–YY, 2020. (Note: Specific page numbers not available in snippets, placeholder used).
+
 [6] F. Wayesa, M. Leranso, G. Asefa, and A. Kedir, “Pattern-based hybrid book recommendation system using semantic relationships,” Sci. Rep., vol. 13, no. 1, p. 3693, Mar. 2023.
-[7] F. Wayesa et al., “Pattern-Based Hybrid Book Recommendation System using Semantic Relationships,” ResearchGate, 2022. [Online]. Available: https://www.researchgate.net/publication/363328751_Pattern-Based_Hybrid_Book_Recommendation_System_using_Semantic_Relationships.
+
+[7] F. Wayesa et al., “Pattern-Based Hybrid Book Recommendation System using Semantic Relationships,” ResearchGate, 2022. [Online].Available: https://www.researchgate.net/publication/363328751_Pattern-Based_Hybrid_Book_Recommendation_System_using_Semantic_Relationships.
+
 [8] UI OCW, “Studi Kasus - Sistem Rekomendasi,” 2024. Accessed: Jun. 14, 2024. [Online]. Available: http://ocw.ui.ac.id/pluginfile.php/278/mod_resource/content/0%20/12%20Studi%20Kasus%20-%20Sistem%20Rekomendasi.pdf.
+
 [9] Anon., “Implementasi Sistem Rekomendasi dengan Content Based Filtering dan Teknologi Virtual Tour Untuk Strategi Pemasaran Pada Website,” Building of Informatics, Technology and Science (BITS), vol. 6, no. 1, pp. 300–313, Jun. 2024.
+
 [10] Anon., “Impact Of Recommender Systems in E-Commerce - A Worldwide Empirical Analysis,” J. Inno. Sci. Eng., vol. 8, no. 2, pp. 251–265, 2023.
+
 [11] D. Lee and K. Hosanagar, “How Do Product Attributes and Reviews Moderate the Impact of Recommender Systems Through Purchase Stages?,” Manage. Sci., 2020.
